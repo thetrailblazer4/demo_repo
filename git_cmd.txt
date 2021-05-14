@@ -1,0 +1,25 @@
+GIT  -- DVCS
+GITHUB -- Repo
+
+
+
+GIT --> Version Control System
+
+collaborate
+To Track
+
+
+user 1 
+user 2
+user 3
+
+
+Centralised VCS and Distributed VCS
+
+
+Connect to internet 24x7
+If some issue with tserver the data will lost
+
+
+1. git init
+2. git add
